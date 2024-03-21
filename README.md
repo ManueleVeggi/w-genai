@@ -2,16 +2,16 @@
 
 Prototype of a web app for Diffusion based GenAI services
 
-<img src="static/media/preview_screenshot.png">
-
-<u>Tools</u>
-
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+    <code><img height="50" src="https://miro.medium.com/v2/resize:fit:802/0*yx9iM3QXCeZkghop.png" alt="HuggingFace" title="HuggingFace"/></code>
 </div>
+
+<u>Preview</u>
+
+<img src="static/media/preview_screenshot.png">
 
 ## Instructions for the correct use of Terminal
 
