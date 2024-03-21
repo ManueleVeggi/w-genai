@@ -32,3 +32,12 @@ def submit():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# Up to now, the complexity on the code does not justify the implementation of a Flask app.
+# On the contrary, this skeleton and the implementation of a GenAI algorithm in the notebook,
+# may be combined to create a working web app: the function to generate the image will indeed
+# replace the current get_image function
+
+# For now the biggest issue is to find an online GPU to run the GenAI algorithm:
+# a local deployment is not feasible due to the lack of computational resources
+# and is not compatible with the requirements of the project.
