@@ -1,0 +1,21 @@
+/* for video solution >  https://blog.hubspot.com/website/video-background-css */
+
+body {
+    background: linear-gradient(90deg, hsla(20, 78%, 45%, 1) 0%, hsla(30, 82%, 45%, 1) 25%, hsla(236, 35%, 46%, 1) 50%, hsla(193, 70%, 40%, 1) 75%, hsla(170, 82%, 37%, 1) 100%);
+    font-family: "Nunito", sans-serif;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+.story-box {
+    width: 100%;
+    height: 25vh;
+    background-color: transparent;
+}
+
+#prompted_img {
+    height: 60vh;
+}
